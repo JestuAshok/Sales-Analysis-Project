@@ -14,6 +14,7 @@ It combines **data cleaning, SQL querying, visualization, and basic forecasting*
 |------|--------------|
 | [Superstore.csv](https://www.kaggle.com/code/juhi1994/superstore-analysis) | Original raw sales dataset |
 | [cleaned_Superstore_data.csv](cleaned_Superstore_data.csv) | Cleaned and processed dataset used for analysis |
+| [sample_cleaned_superstore_data.csv](sample_cleaned_superstore_data.csv) | Sample of 1000 rows from the cleaned dataset for faster testing and visualization |
 | [final_sales_analysis_cleaned.sql](final_sales_analysis_cleaned.sql) | SQL queries for data exploration and insights |
 | [sales_analysis_Notebook.ipynb](./sales_analysis_Notebook.ipynb) | Jupyter Notebook with data visualization and linear regression forecasting |
 
@@ -70,9 +71,5 @@ Visuals created in Jupyter Notebook:
 ## 🤖 Forecasting (Bonus)
 A simple **Linear Regression** model predicts future sales trends using monthly aggregated sales data.
 
----
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Sales-Analysis-Project.git
+
