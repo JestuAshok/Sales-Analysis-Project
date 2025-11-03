@@ -65,8 +65,6 @@ Visuals created in Jupyter Notebook:
 - Profit vs Sales Scatter Plot  
 - Linear Regression Forecast
 
-*(Add screenshots in an `/images` folder if possible.)*
-
 ---
 
 ## 🤖 Forecasting (Bonus)
