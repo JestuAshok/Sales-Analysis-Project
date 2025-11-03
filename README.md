@@ -12,8 +12,8 @@ It combines **data cleaning, SQL querying, visualization, and basic forecasting*
 ## 📂 Project Files
 | File | Description |
 |------|--------------|
-| [Superstore.csv.gz](Superstore.csv.gz) | Original raw sales dataset |
-| [cleaned_Superstore_data_utf8.csv](cleaned_Superstore_data_utf8.csv) | Cleaned and processed dataset used for analysis |
+| [Superstore.csv](https://www.kaggle.com/code/juhi1994/superstore-analysis) | Original raw sales dataset |
+| [cleaned_Superstore_data.csv](cleaned_Superstore_data.csv) | Cleaned and processed dataset used for analysis |
 | [final_sales_analysis_cleaned.sql](final_sales_analysis_cleaned.sql) | SQL queries for data exploration and insights |
 | [sales_analysis_Notebook.ipynb](./sales_analysis_Notebook.ipynb) | Jupyter Notebook with data visualization and linear regression forecasting |
 
